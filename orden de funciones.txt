@@ -1,0 +1,3 @@
+en las rutas de los documentos enbedidos son:
+
+idEmpresa/funcion/idEmpleado
